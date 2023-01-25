@@ -1,0 +1,44 @@
+.conteiner {
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    width: 700px;
+
+
+}
+
+.box1 {
+    column-gap: 10px;
+    height: 200px;
+    background: gray;
+    text-align: center;
+
+
+}
+
+.box2 {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    column-gap: 20px;
+
+}
+
+.box2 > div {
+
+    text-align: center;
+    height: 200px;
+    background: green;
+    flex-grow: 1;
+
+}
+
+.box3 {
+    text-align: center;
+    height: 400px;
+    background: navajowhite;
+    flex-grow: 1;
+
+
+}
+
