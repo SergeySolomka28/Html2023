@@ -1,0 +1,25 @@
+@media screen and (min-width: 576px)and (max-width: 768px) {
+
+    .w600 {
+        width: 300px;
+    }
+}
+.h150 {
+    height: 75px;
+}
+
+.row {
+    flex-direction: column;
+}
+
+.b {
+    height: 150px;
+    width: 300px;
+}
+
+.c {
+    height: 75px;
+    width: 300px;
+    margin-top: 15px;
+}
+
