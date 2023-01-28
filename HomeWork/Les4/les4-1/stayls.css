@@ -73,9 +73,38 @@
 }
 
 .aline-centr {
-    align-content: center;
+    align-items: center;
 }
 
 .just-cont-centr {
     justify-content: center;
 }
+
+h3 {
+    color: #111ea8;
+    text-align: center;
+
+}
+
+.box_H {
+    align-items: center;
+    justify-content: center;
+}
+
+.header {
+    align-items: center;
+    justify-content: center;
+}
+
+.box1 > div {
+    align-items: center;
+    justify-content: center;
+}
+
+.box2 > div {
+    align-items: center;
+    justify-content: center;
+}
+
+
+

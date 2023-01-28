@@ -1,0 +1,17 @@
+/*Smal*/
+@media screen  and (min-width: 576px) and (max-width: 768px) {
+    .h150 {
+        height: 50px;
+
+    }
+
+    .h200-w200 {
+        height: 50px;
+        width: 50px;
+    }
+
+    .boxes {
+        flex-direction: column;
+        row-gap: 15px;
+    }
+}
